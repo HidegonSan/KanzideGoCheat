@@ -1,10 +1,14 @@
 // ==UserScript==
-// @name        KanzideGo Show Answer
+// @name        KanzideGO Show Answer
 // @match       https://html5.plicy.net/GamePlay/155561*
 // @grant       unsafeWindow
 // @version     0.0.1
 // @author      Hidegon
-// @description Show answer
+// @description Show answer at KanzideGO!
+// @updateURL    https://raw.githubusercontent.com/HidegonSan/KanzideGoCheat/refs/heads/main/kanzidego_cheat.user.js
+// @downloadURL  https://raw.githubusercontent.com/HidegonSan/KanzideGoCheat/refs/heads/main/kanzidego_cheat.user.js
+// @supportURL   https://github.com/HidegonSan/KanzideGoCheat/issues
+// @homepage     https://github.com/HidegonSan/KanzideGoCheat
 // ==/UserScript==
 
 
