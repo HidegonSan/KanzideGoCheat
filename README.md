@@ -1,8 +1,6 @@
 # 漢字でGO! チートスクリプト
 
-▶ [インストール](/kanzidego_cheat.user.js) ◀  
-
-<hr>
+## ▶ [インストール](https://raw.githubusercontent.com/HidegonSan/KanzideGoCheat/refs/heads/main/kanzidego_cheat.user.js) ◀  
 
 [漢字でGO!](https://plicy.net/GamePlay/155561)で使えるチート用ユーザスクリプトです．  
 全画面プレイのみ対応しています.
